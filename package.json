@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "First Node App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Episcopo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "node-fetch": "^2.6.7"
+  }
+}

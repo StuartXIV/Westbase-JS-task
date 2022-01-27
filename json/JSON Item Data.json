@@ -1,0 +1,40 @@
+[
+  {
+    "transactionid": 1,
+    "items" : [
+    {
+      "name": "Item 1",
+      "purchasepriceUSD": "100",
+      "salepriceGBP": "200",
+      "qty": 10
+    },
+    {
+      "name": "Item 2",
+      "purchasepriceUSD": "250",
+      "salepriceUSD": "300",
+      "qty": 7
+    }
+  ]},
+  {
+    "transactionid": 2,
+    "items" : [
+      {
+        "name": "Item 3",
+        "purchasepriceUSD": "150",
+        "salepriceUSD": "200",
+        "qty": 3
+      },
+      {
+        "name": "Item 4",
+        "purchasepriceUSD": "250",
+        "salepriceGBP": "300",
+        "qty": 5
+      },
+      {
+        "name": "Item 5",
+        "purchasepriceGBP": "250",
+        "salepriceGBP": "300",
+        "qty": 18
+      }
+    ]}
+]
